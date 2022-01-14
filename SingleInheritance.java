@@ -1,11 +1,11 @@
 package OOPs;
 import java.util.*;
-class name{
+class Name{
     public void print_Name(){
         System.out.print("Suman ");
     }
 }
-class title extends name{
+class Title extends name{
     public void print_Title(){
         System.out.print("Rana");
     }
