@@ -1,3 +1,14 @@
+/*
+    Single Inheritance
+    -------------------
+    
+            A
+       (Super Class)
+            |
+            |
+            B
+        (Sub Class)
+*/
 package OOPs;
 import java.util.*;
 class Name{
