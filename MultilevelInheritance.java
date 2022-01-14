@@ -1,3 +1,20 @@
+/*
+             A
+         (superclass)
+             |
+             |
+             B
+         (subclass)
+             |
+             |
+             C
+         (subclass)
+
+
+
+*/
+
+
 package OOPs;
 class Name{
     public void name(){
