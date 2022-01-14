@@ -31,11 +31,7 @@ class Orange extends Fruit{
         System.out.println("Orange"+",");
     }
 }
-class Apple extends Fruit{
-    public void apple(){
-        System.out.print("Apple");
-    }
-}
+
 public class HierarchicalInheritance {
     public static void main(String[] args) {
         Mango A=new Mango();
@@ -47,11 +43,6 @@ public class HierarchicalInheritance {
         Orange C=new Orange();
         C.fruit();
         C.orange();
-        Apple D=new Apple();
-        D.fruit();
-        D.apple();
-
-
-
+        
     }
 }
