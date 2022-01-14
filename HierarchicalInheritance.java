@@ -1,3 +1,11 @@
+/*
+                           A
+                           |
+          -----------------------------------
+          |                |                |
+          B                C                D
+ 
+*/
 package OOPs;
 class Fruit{
     public void fruit(){
