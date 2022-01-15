@@ -1,3 +1,18 @@
+/*
+            Hybrid Inheritance               |             Hybrid Inheritance 
+                                             |                   
+                    A                        |                     A      
+                    |                        |                     |
+                    |                        |          -----------------------
+                    B                        |          |                     |
+                    |                        |          B                     C
+         ------------------------            |          |                     |
+         |                      |            |          D                     E
+         C                      D            |
+
+
+
+*/
 package OOPs;
 class Grandfather{
     public void printGrandfatherName(){
