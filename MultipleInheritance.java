@@ -1,3 +1,16 @@
+/*
+          Multiple Inheritance
+              
+            A              B
+            |              |
+            ----------------
+                    |
+                    C
+
+
+*/
+
+
 package OOPs;
 interface father{
     public void printFatherName();
